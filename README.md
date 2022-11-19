@@ -13,7 +13,7 @@ $python3 make_plots.py
 User manual for AS-Quant is available on github https://github.com/compbiolabucf/AS-Quant-v0.1.2/blob/main/AS-Quant_User_Manual.pdf
 
 # Sample data
-AS-Quant example data for mouse(mouse mm10) is included in the folder https://github.com/compbiolabucf/AS-Quant/tree/master/Sample_input_mouse. To run from scratch, user can use the sample data for quantization of AS events.
+AS-Quant example data for mouse(mouse mm10) is included in the folder https://github.com/compbiolabucf/AS-Quant-v0.1.2/tree/main/sample_input_mouse. To run from scratch, user can use the sample data for quantization of AS events.
 
 # Citation
 Please use the following information to cite.
